@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# oct18
+#
+
+projectname: oct18
+vendorid: com.mycompany
+mainmodule: com.mycompany.oct18

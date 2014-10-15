@@ -1,0 +1,12 @@
+ldflags: -L.
+frameworks: Foundation,CoreGraphics,AppKit,QuartzCore,optional:SpriteKit
+depends: eq.api,com.eqela.libio,com.eqela.libos,com.eqela.libguiengine,com.eqela.libgui,com.eqela.libspriteengine,com.eqela.libspriteengine,com.eqela.libaudioclip,com.eqela.libspriteengine,com.eqela.libspriteengine,com.eqela.libaudioclip
+moduletype: customguiapplication
+platform: osx
+url: 
+license: 
+copyright: 
+version: 1.0.0
+description: 
+displayname: oct18
+id: com.mycompany.oct18
